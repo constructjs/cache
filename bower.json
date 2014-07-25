@@ -4,7 +4,7 @@
 	"main": "./build/construct.cache.js",
 	"ignore": ["test/*"],
 	"dependencies": {
-		"backbone.app": "*",
+		"contruct.asset": "*",
 		"cell.js" : "*"
 	}
 }
