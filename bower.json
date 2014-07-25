@@ -1,0 +1,10 @@
+{
+	"name": "construct.cache",
+	"version": "0.0.1",
+	"main": "./build/construct.cache.js",
+	"ignore": ["test/*"],
+	"dependencies": {
+		"backbone.app": "*",
+		"cell.js" : "*"
+	}
+}
